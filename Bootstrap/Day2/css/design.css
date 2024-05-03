@@ -1,0 +1,10 @@
+.img_h{
+    height:400px;
+}
+.darken-image {
+    filter: brightness(40%);
+}
+.center_text{
+    top: 50%;
+    transform: translateY(-50%);
+}
