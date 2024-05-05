@@ -2,7 +2,7 @@
     height:400px;
 }
 .darken-image {
-    filter: brightness(40%);
+    filter: brightness(60%);
 }
 .center_text{
     top: 50%;
